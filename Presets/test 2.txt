@@ -1,0 +1,7 @@
+{
+    "preset_name": "test 2",
+    "first_to": 7,
+    "sheet_id": 1442427703,
+    "commentators": "chromb & Teezel",
+    "round_name": "round of 16"
+}
